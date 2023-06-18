@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "648a411efb6bec32dfc957f4"
+  },
+  "name": "Baba Ramon",
+  "username": "babaramon",
+  "password": "$2b$10$47llqYGbI0.iIgvy50Q6auifT/pfYsrIyGP2FI7fW5yrrf7fKWa6a",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2023-06-14T22:37:18.771Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-14T22:37:18.771Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648cc779f5e8291a24d95615"
+  },
+  "name": "Oyedeji Zainab",
+  "username": "zainab",
+  "password": "$2b$10$TCVh4aQJVZUlxNKfGqXaNemRtw5K7Xp5P1KxQZi07FaO8Kb4Bx3qm",
+  "role": "user",
+  "createdAt": {
+    "$date": "2023-06-16T20:35:06.007Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-16T20:35:06.007Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648cdd1570ee5bfc10ab333a"
+  },
+  "name": "Oyedeji Zainab",
+  "username": "zainab1",
+  "password": "$2b$10$s0zRvvJqUjzatw9gP7aKX./zy4LcrWSEIA4KAPIcLSP0Py9fe.PNm",
+  "role": "support",
+  "createdAt": {
+    "$date": "2023-06-16T22:07:17.526Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-16T22:07:17.526Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "648ce392efa400a2d07579ca"
+  },
+  "title": "The greatest",
+  "description": "This is the greatest",
+  "status": "open",
+  "createdBy": {
+    "$oid": "648cc779f5e8291a24d95615"
+  },
+  "createdAt": {
+    "$date": "2023-06-16T22:34:58.255Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-16T22:34:58.255Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648d9e94ca9cc505bc28efe6"
+  },
+  "title": "The greatest",
+  "description": "This is the greatest",
+  "status": "escalated",
+  "createdBy": {
+    "$oid": "648cc779f5e8291a24d95615"
+  },
+  "createdAt": {
+    "$date": "2023-06-17T11:52:52.355Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T11:58:18.373Z"
+  },
+  "__v": 0,
+  "assignee": {
+    "$oid": "648cdd1570ee5bfc10ab333a"
+  }
+},
+{
+  "_id": {
+    "$oid": "648dc253adcd391d6cf6dd8d"
+  },
+  "title": "The greatest",
+  "description": "This is the greatest",
+  "status": "open",
+  "createdBy": {
+    "$oid": "648cc779f5e8291a24d95615"
+  },
+  "createdAt": {
+    "$date": "2023-06-17T14:25:23.773Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T14:25:23.773Z"
+  },
+  "__v": 0
+}]
