@@ -16,12 +16,12 @@ To install and configure the project's prerequisites and dependencies, please fo
 2. Clone the project repository from GitHub:
 
 ```shell
-  git clone https://github.com/lollipop95/backendproject.git
+  git clone https://github.com/zainaboyedeji/fincratest.git
 ```
 
 3. Navigate to the project's root directory:
 ```shell
-  cd backendproject
+  cd fincratest
 ```
 4. Install the required dependencies using npm:
 ```shell
